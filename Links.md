@@ -99,6 +99,7 @@ Materials:
 * [Metamateriaux](https://www.youtube.com/watch?v=lsTiWYSfPck)
 * [Metamateriaux n°2](https://www.youtube.com/watch?v=5wpRszZZhYQ)
 * [Auxetic](https://www.youtube.com/watch?v=ekJrBgti7zw)
+* [Metamaterial n°3](https://www.youtube.com/watch?time_continue=31&v=UIC1VKPo04g)
 
 Laser:
 * [Laser Paper](https://www.youtube.com/watch?v=ECL1kO6Cs2o)
