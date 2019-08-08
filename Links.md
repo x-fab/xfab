@@ -21,6 +21,7 @@
 * [Topological optimization](http://www.topopt.mek.dtu.dk/apps-and-software)
 * [Giant bottle structures](https://hpi.de/baudisch/projects/trussfab.html)
 * [Kirigami auxetic](http://fab.academany.org/2018/labs/fablabulb/ga_digital_mechanics.html)
+* [Chair design](https://vimeo.com/21250072)
 
 ## Inspirational videos (broadcasted on X-Fab screen)
 
