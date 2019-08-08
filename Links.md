@@ -78,6 +78,7 @@
 * [Auxetic multimaterial](https://www.youtube.com/watch?v=XP5Fk-lHvK0)
 * [Liquid magnet printing](https://www.youtube.com/watch?time_continue=59&v=EAMhNA_k7UM)
 * [Microbots](https://www.youtube.com/watch?time_continue=51&v=JgEnX7kADNE)
+* [Buckling](https://www.youtube.com/watch?v=_AlcRoqS65E&pbjreload=10)
 
 Textile:
 * [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA)
