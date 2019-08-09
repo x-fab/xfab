@@ -80,6 +80,7 @@
 * [Microbots](https://www.youtube.com/watch?time_continue=51&v=JgEnX7kADNE)
 * [Buckling](https://www.youtube.com/watch?v=_AlcRoqS65E&pbjreload=10)
 * [Heart valve](https://www.youtube.com/watch?v=3N684MaB0b8)
+* [Microfluidics silicone](https://www.youtube.com/watch?v=fVkKXtgB-Rg&feature=youtu.be)
 
 Textile:
 * [Soft robotics Textile](https://www.youtube.com/watch?v=eIvNHl48qLA)
