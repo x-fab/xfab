@@ -22,6 +22,7 @@
 * [Giant bottle structures](https://hpi.de/baudisch/projects/trussfab.html)
 * [Kirigami auxetic](http://fab.academany.org/2018/labs/fablabulb/ga_digital_mechanics.html)
 * [Chair design](https://vimeo.com/21250072)
+* [Voxel modeler](https://vimeo.com/159957021)
 
 ## Inspirational videos (broadcasted on X-Fab screen)
 
