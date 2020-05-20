@@ -1,1 +1,1 @@
-[Face mask](projects/face_mask)
+[Face mask](projects/face_mask.md)
